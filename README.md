@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/material-ocean/Telegram-Theme/master/2019-08-17_20-12.png)
+![screenshot](/2020-04-25_23-51.png)
 
 ### Installation:
 
@@ -9,3 +9,4 @@
 ### License:
 
 Licensed Under [GNU’s GPL version 3](https://github.com/material-ocean/Material-Ocean/blob/master/LICENSE)
+
